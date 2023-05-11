@@ -1,5 +1,5 @@
 # The AirBnB Clone Project
-![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
+![AirBnB Logo](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230511%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230511T065553Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=da52c5eb77f895d3f8881c23cfd7a3c909299c6229eb28429c3e06f016775a32)
 
 ## Project Overview
 The goal of this project was to develop the backend of the AirBnB clone website and connect it with a console application using the cmd and json modules in python.
